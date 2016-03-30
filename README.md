@@ -3,5 +3,5 @@ Automatically exported from code.google.com/p/jslitmus
 
 https://code.google.com/archive/p/jslitmus/
 
-Site: http://broofa.com/Tools/JSLitmus/
-License: New BSD License [https://opensource.org/licenses/BSD-3-Clause]
+Copyright (c) 2010, Robert Kieffer, http://broofa.com
+Available under MIT license (http://en.wikipedia.org/wiki/MIT_License)
